@@ -1,5 +1,5 @@
 {
-  "version": "2.6.2",
-  "download_url": "https://aveami.github.io/yanzu-update/Yanzu.exe",
-  "notes": "Добавлен антиалайзинг контуров PBN"
+  "version": "2.6.5",
+  "download_url": "https://github.com/aveami/yanzu-update/releases/download/v2.6.5/Yanzu.exe",
+  "notes": "Проверка обновления + new gui + drag and drop from browser + AA vector of pbn"
 }
